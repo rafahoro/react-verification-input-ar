@@ -1,11 +1,12 @@
 {
-  "name": "react-verification-input",
+  "name": "react-verification-input-ar",
   "version": "2.0.1",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "repository": "https://github.com/andreaswilli/react-verification-input.git",
+  "repository": "https://github.com/rafahoro/react-verification-input.git",
   "description": "Customizable, masked input, which can be used for all sorts of codes.",
-  "author": "Andreas Willi",
+  "author": "Andreas Willi.",
+  "author2": "Rafa Horo",
   "license": "MIT",
   "scripts": {
     "build": "webpack",
